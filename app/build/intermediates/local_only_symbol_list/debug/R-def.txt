@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+array about_cities
+array cities
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable baku_city
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable kelbecer_city
+drawable layout_bg
+drawable layout_bg_head
+drawable layout_bg_img
+drawable mingecevir_city
+drawable sumqayit_city
+drawable susa_city
+drawable xacmaz_city
+id cities_img
+id spn_cities
+id tv_city_info
+id tv_head
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string az_rbaycan_n_h_rl_ri
+string se_ilmi_h_r_haqq_nda_m_lumat
+style Theme.Şəhərlər
+xml backup_rules
+xml data_extraction_rules
