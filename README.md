@@ -1,0 +1,3 @@
+# AzCitiesInfo
+Deleted commit
+https://github.com/m2288/AzCitiesInfo/commit/8c9eb007d0b1e2e6f574139c06231ada45c56c77#diff-fd5a603f79561d755db2747ac0c2b18773c728dfd5976ab7218ea92d87a24b01
